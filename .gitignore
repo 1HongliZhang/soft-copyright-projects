@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+
+# C#
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+
+# C++
+build/
+cmake-build-*/
+*.o
+*.obj
+*.exe
+*.out
+
+# PHP
+vendor/
+node_modules/
+
+# C
+*.o
+*.a
+*.so
+*.out
+
+# Rust
+target/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Screenshots & docs
+screenshots/
+output/
